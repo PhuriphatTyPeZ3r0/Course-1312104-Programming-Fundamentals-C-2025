@@ -1,16 +1,16 @@
-# 1312104 Programming Fundamentals (การโปรแกรมเบื้องต้น - ภาษา C)
+﻿# 1312104 Programming Fundamentals (การโปรแกรมเบื้องต้น - ภาษา C)
 
 <div align="center">
 
 [![Institution: PIM](https://img.shields.io/badge/Institution-PIM-003366?style=for-the-badge&logo=google-classroom&logoColor=white)](https://www.pim.ac.th/)
-[![Faculty: CPE & AI](https://img.shields.io/badge/Faculty-CPE%20%26%20AI-blue?style=for-the-badge)](https://www.pim.ac.th/)
+[![Program: CAI](https://img.shields.io/badge/Program-CAI-blue?style=for-the-badge)](https://www.pim.ac.th/)
 [![Academic Year](https://img.shields.io/badge/Academic%20Year-1%2F2568%20(2025)-orange?style=for-the-badge)](https://github.com/PhuriphatTyPeZ3r0)
 [![Language: C](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Grade: A](https://img.shields.io/badge/Grade-A%20(4.00)-success?style=for-the-badge)](https://github.com/PhuriphatTyPeZ3r0)
 [![Obsidian Compatible](https://img.shields.io/badge/Obsidian-Vault%20Ready-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 
 **คลังแบบฝึกหัด โค้ดแล็บ และสรุปเนื้อหารายวิชาการโปรแกรมเบื้องต้น (ภาษา C)**  
-*สาขาวิชาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์ (CPE & AI) — สถาบันการจัดการปัญญาภิวัฒน์ (PIM)*
+*สาขาวิชาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์ (CAI) — สถาบันการจัดการปัญญาภิวัฒน์ (PIM)*
 
 </div>
 
@@ -111,7 +111,7 @@ Course-1312104-Programming-Fundamentals-C-2025/
 ## 👨‍💻 8. ผู้จัดทำ (Author)
 
 **Phuriphat Hemakul (PhuriphatTyPeZ3r0)**
-- 🎓 นักศึกษา สาขาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์ (CPE & AI)
+- 🎓 นักศึกษา สาขาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์ (CAI)
 - 🏛️ สถาบันการจัดการปัญญาภิวัฒน์ (PIM)
 - 🐙 GitHub: [@PhuriphatTyPeZ3r0](https://github.com/PhuriphatTyPeZ3r0)
 - 🌐 Portfolio: [resume-phuriphat-hemakul.vercel.app](https://resume-phuriphat-hemakul.vercel.app)
